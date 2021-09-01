@@ -9,6 +9,6 @@
 - 📫 How to reach me:
    * Twitter: @OttoDott0
    * Discord: OttoDotto#1964
-   * Mail: samuelsanchez36654@gmail.com
+   * Mail: samuel_e08@hotmail.com
 
 - 📚 languages: Spanish or English.
