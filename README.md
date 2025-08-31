@@ -2,7 +2,7 @@
 
 - 👤 I’m 22 years old Argentinian.
 
-- 👀 I’m interested in Python, Arduino, and anime. 
+- 👀 I’m interested in PCB desing, Programming (c, c++ & Python) & testing and measuring electronic systems.
 
 - 📫 How to reach me:
    * Twitter: @OttoDott0
